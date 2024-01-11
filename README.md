@@ -1,1 +1,1 @@
-# Excel_dashboard_project
+# Excel - SK Electronics Sales Data Analysis
